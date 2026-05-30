@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://web-profile-ebon.vercel.app/](https://web-profile-ebon.vercel.app/)
 
-- 💬 Ask me about **Nodejs**
+- 💬 Ask me about **React & Nodejs**
 
 - 📫 How to reach me **yogeshwaredu198@gmail.com**
 
